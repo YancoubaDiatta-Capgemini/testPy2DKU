@@ -13,6 +13,7 @@ csv_data = StringIO(response.text)
 data = pd.read_csv(csv_data)
 
 # Créer une nouvelle colonne en multipliant la colonne "age" par 2
+data2=data
 data['age_doubled'] = data['Age'] * 2
-
+data2['age_triple']=  data['Age'] * 3
 #print(data.head())
