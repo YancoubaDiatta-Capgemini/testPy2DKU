@@ -1,0 +1,21 @@
+Customer ID;First_Name;Last_Name;Sex;Birthday;Email;Phone;Address;City;Postal_Code
+1;Sarah;Smith;M;26/04/1990;ssarah@example.com;123-456-7890;123 Main St;Anytown;12345
+2;Emily;Johnson;F;11/12/1994;emily@example.com;987-654-3210;456 Elm St;Springfield;54321
+3;Michael;Brown;M;24/11/1996;michael@example.com;555-123-4567;789 Oak St;Rivertown;67890
+4;Sarah;Williams;F;24/05/1955;sarah@example.com;321-654-9870;101 Maple Ave;Lakeside;13579
+5;David;Jones;M;13/06/2000;david@example.com;777-888-9999;202 Pine St;Hillcrest;24680
+6;Jessica;Martinez;F;09/08/1988;jessica@example.com;111-222-3333;303 Cedar St;Valley City;97531
+7;Christopher;Davis;M;31/05/1969;chris@example.com;444-555-6666;404 Birch St;Lakeview;86420
+8;Amanda;Rodriguez;F;12/11/1989;amanda@example.com;666-777-8888;505 Walnut St;Mountainville;36912
+9;Nicole;Garcia;F;24/03/1991;nicoleg@example.com;999-888-7777;606 Pineapple Ln;Sunnyvale;24680
+10;Jennifer;Wilson;F;12/07/1998;jennifer@example.com;222-333-4444;707 Apple Dr;Clearwater;13579
+11;Matthew;Lopez;M;22/01/2000;matthew@example.com;888-777-6666;808 Banana Blvd;Palm Beach;98765
+12;Elizabeth;Gonzalez;F;04/06/1990;elizabeth@example.com;777-666-5555;909 Peachtree St;Orangeville;45678
+13;Daniel;Hernandez;M;11/08/1978;daniel@example.com;444-333-2222;111 Cherry Ln;Riverdale;1234
+14;Ashley;Wilson;F;08/08/2005;ashley@example.com;555-666-7777;222 Plum Ave;Hillside;56789
+15;Joseph;Taylor;M;12/02/1993;joseph@example.com;222-333-4444;333 Strawberry Cir;Lakeshore;9876
+16;Kimberly;Anderson;F;16/07/1993;kimberly@example.com;333-444-5555;444 Blueberry Rd;Springdale;54321
+17;Joshua;Thomas;M;02/02/2001;joshua@example.com;111-222-3333;555 Raspberry Blvd;Riverside;13579
+18;Melissa;Moore;F;03/09/1991;melissa@example.com;666-777-8888;666 Orange St;Parkville;24680
+19;Steven;Jackson;M;08/03/1975;steven@example.com;777-888-9999;777 Lemon Ln;Meadowbrook;36912
+20;Samantha;White;F;01/06/2006;samantha@example.com;888-999-0000;888 Grapevine Ave;Orchard City;75319

@@ -10,7 +10,7 @@ response = requests.get(url)
 csv_data = StringIO(response.text)
 
 # Charger le fichier CSV dans un DataFrame
-data = pd.read_csv(csv_data)
+out1 = pd.read_csv(csv_data)
 # Créer un dataset à partir du DataFrame
 output_dataset = dataiku.Dataset("output_prep8")
 output_dataset.write_with_schema(data)

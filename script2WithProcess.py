@@ -10,10 +10,10 @@ response = requests.get(url)
 csv_data = StringIO(response.text)
 
 # Charger le fichier CSV dans un DataFrame
-data = pd.read_csv(csv_data)
+out1 = pd.read_csv(csv_data)
 
 # Créer une nouvelle colonne en multipliant la colonne "age" par 2
-data2=data
-data['age_doubled'] = data['Age'] * 2
-data2['age_triple']=  data['Age'] * 3
+out2=out1
+out1['age_doubled'] = out1['Age'] * 2
+out2['age_triple']=  out1['Age'] * 3
 #print(data.head())
