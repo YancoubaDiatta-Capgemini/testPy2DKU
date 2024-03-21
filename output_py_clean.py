@@ -2,7 +2,7 @@ import pandas as pd
 from datetime import datetime
 
 # Set paths and dates
-doss = "C:/Projects/SAS2PY/Tulku-Code-Repo-main/Tulku/Sas2Py_Repo/Inputdata/"
+doss = "https://raw.githubusercontent.com/YancoubaDiatta-Capgemini/testPy2DKU/genAI_out_py/"
 
 # Read in CSV files
 customers = pd.read_csv(doss + "customers.csv", delimiter=";")
