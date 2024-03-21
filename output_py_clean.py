@@ -48,4 +48,4 @@ out2 = out1.groupby(["Age_range", "Sex", "Day"], observed=True).agg(
 )
 
 #Export the output file
-out2.to_csv('C:/Projects/SAS2PY/Tulku-Code-Repo-main/Tulku/Sas2Py_Repo/OutData/out2.csv', sep=';', index=True)
+#out2.to_csv('C:/Projects/SAS2PY/Tulku-Code-Repo-main/Tulku/Sas2Py_Repo/OutData/out2.csv', sep=';', index=True)
