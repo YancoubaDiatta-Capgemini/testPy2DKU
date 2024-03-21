@@ -8,5 +8,4 @@ df2 = pd.read_csv("https://raw.githubusercontent.com/YancoubaDiatta-Capgemini/te
 # Concatenate the 2 dataframes
 out1 = pd.concat([df1, df2], axis=1)
 
-# Print the concatenated dataframe
-print("Concatenated DataFrame:\n", df)
+
